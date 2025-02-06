@@ -12,7 +12,8 @@ drawBubble(250,250,color(124,225,259));
 drawBubble(370,270,color(124,225,259));
 drawBubble(370,270,color(124,225,259));
 drawBubble(470,280,color(124,225,259));
-drawStar(300,50,color(200,50,30))
+drawStar(175,370,color(200,50,30))
+drawStar(350,370,color(200,50,30))
 
 
 };
