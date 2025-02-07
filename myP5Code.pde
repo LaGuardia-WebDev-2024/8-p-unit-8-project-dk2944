@@ -14,6 +14,8 @@ drawBubble(370,270,color(124,225,259));
 drawBubble(470,280,color(124,225,259));
 drawStar(175,370,color(200,50,30))
 drawStar(350,370,color(200,50,30))
+drawShell(310,330)
+drawShell(155,315)
 
 
 };
@@ -42,6 +44,10 @@ var drawStar = function(StarX, StarY, StarColor){
   textSize(80);
   fill(StarColor);
   text("𓇼", StarX, StarY);
+};
+var drawShell=function(shellX,shellY,shellColor){
+textSize(40);
+text("🐚",shellX,shellY);
 };
 
 
