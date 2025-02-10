@@ -8,7 +8,10 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
+  font-family: Water;
+  background-image:url("https://img.freepik.com/premium-vector/gradient-vector-blank-blue-halftone-background_901408-26569.jpg?semt=ais_hybrid");
+    background-size:cover;
+      background-repeat:no-repeat;
 }
 
 h1{
